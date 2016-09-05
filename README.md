@@ -8,3 +8,5 @@ Android 倒车辅助线。
 2、编辑完调用:saveData()保存数据
 
 Mode包含:Mode.EDIT、Mode.VIEW
+
+<img src="ParkingAssistLine/capture/Screenshot.jpeg">Capture</img>
