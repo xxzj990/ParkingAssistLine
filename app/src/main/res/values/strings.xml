@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ParkingAssistLine</string>
+    <string name="edit">编辑</string>
+    <string name="view">退出编辑</string>
+</resources>
