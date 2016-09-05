@@ -9,4 +9,4 @@ Android 倒车辅助线。
 
 Mode包含:Mode.EDIT、Mode.VIEW
 
-<img src="ParkingAssistLine/capture/Screenshot.jpeg">Capture</img>
+![image](https://github.com/xxzj990/ParkingAssistLine/blob/master/capture/Screenshot.jpeg)
